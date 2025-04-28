@@ -27,17 +27,10 @@
             "url": "https://github.com/VivekSorathiyaa"
         },
         {
-            "icon": "fa-brands fa-x-twitter",
-            "url": "https://twitter.com/"
-        },
-        {
             "icon": "fa-brands fa-instagram",
             "url": "https://www.instagram.com/vivek_sorathiya_22/"
-        },
-        {
-            "icon": "fa-brands fa-medium",
-            "url": "https://medium.com/"
         }
+
     ],
     "about": {
         "heading": "\uD83D\uDC4B Hey, I'm Vivek Sorathiya – an Android, Flutter & Web Developer!",

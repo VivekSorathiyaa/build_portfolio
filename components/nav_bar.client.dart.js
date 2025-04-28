@@ -3711,7 +3711,7 @@ var r=0,q=1,p=[],o
 return function $async$ae(b,c,d){if(c===1){p.push(d)
 r=q}while(true)switch(r){case 0:o=t.i
 r=2
-return b.b=new A.U("section",null,"navbar",null,null,null,null,A.k([A.hc(A.k([A.eD(A.k([new A.I("< ",null)],o),null),A.eD(A.k([new A.I("Vivek",null)],o),"brand"),A.eD(A.k([new A.I(" />",null)],o),null)],o),null),A.hc(A.k([A.bW(A.k([new A.I("HOME",null)],o),"navbar-label","#",null,null),A.bW(A.k([new A.I("ABOUT",null)],o),"navbar-label","#about",null,null),A.bW(A.k([new A.I("SERVICES",null)],o),"navbar-label","#services",null,null),A.bW(A.k([new A.I("PROJECTS",null)],o),"navbar-label","#projects",null,null),A.bW(A.k([new A.I("CONTACT",null)],o),"navbar-label","#contact",null,null),new A.c5("RESUME","https://drive.google.com/drive/u/0/folders/1E6NxJlmnW2lTYTszcbODdpXiPFYe_kBM",null)],o),"labels")],o),null),1
+return b.b=new A.U("section",null,"navbar",null,null,null,null,A.k([A.hc(A.k([A.eD(A.k([new A.I("< ",null)],o),null),A.eD(A.k([new A.I("Vivek",null)],o),"brand"),A.eD(A.k([new A.I(" />",null)],o),null)],o),null),A.hc(A.k([A.bW(A.k([new A.I("HOME",null)],o),"navbar-label","#",null,null),A.bW(A.k([new A.I("ABOUT",null)],o),"navbar-label","#about",null,null),A.bW(A.k([new A.I("SERVICES",null)],o),"navbar-label","#services",null,null),A.bW(A.k([new A.I("PROJECTS",null)],o),"navbar-label","#projects",null,null),A.bW(A.k([new A.I("CONTACT",null)],o),"navbar-label","#contact",null,null),new A.c5("RESUME","https://drive.google.com/file/d/1WHm3E7HmmEvNCZy6i_wP73N90OMZglO1/view?usp=sharing",null)],o),"labels")],o),null),1
 case 2:return 0
 case 1:return b.c=p.at(-1),3}}}}}
 A.b1.prototype={
